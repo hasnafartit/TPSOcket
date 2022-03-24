@@ -7,7 +7,7 @@ On a commencé par créer un une petit application Client-Serveur qui permet la 
 
 
 
-Après on a réer un serveur multi-Threads qui permet la connexion des plusieurs clients à un serveur (vidéos du part3 et part4)
+Après on a créer un serveur multi-Threads qui permet la connexion des plusieurs clients à un serveur (vidéos du part3 et part4)
 
 ![image](https://user-images.githubusercontent.com/84719124/159895545-d52ce211-a1c8-477a-a664-965c3b1bcc9c.png)
 
